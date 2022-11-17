@@ -1,0 +1,30 @@
+/*  style.css  */
+
+.odd-numbered-element {
+    background-color: rgb(219, 155, 155);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.element-three {
+    font-size: 24px;
+}
+
+#number-two {
+    color: rgb(145, 170, 250);
+    font-size: 36px;
+}
+
+#number-four {
+    background-color: rgba(114, 196, 114, 0.815);
+    font-size: 24px;
+    font-weight: bold; 
+}
+/*
+div {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+*/
