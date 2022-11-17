@@ -1,0 +1,15 @@
+/* style.css */
+
+/* div p {
+    background-color: #FF0;
+    color: #F30;
+    font-size: 20px;
+    text-align: center;
+} */
+
+.container .text {
+    background-color:cornsilk;
+    color: darkred;
+    font-size: 20px;
+    text-align: center;
+}
