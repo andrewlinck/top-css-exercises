@@ -15,4 +15,4 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 - [X] There is padding around the edge of the modal.
 - [X] The header, text, and buttons are aligned with each other.
 - [X] The header is bold and a slightly larger text-size than the text.
-- [ ] The close button is vertically aligned with the header, and aligned in the top-right of the card.
+- [X] The close button is vertically aligned with the header, and aligned in the top-right of the card.
